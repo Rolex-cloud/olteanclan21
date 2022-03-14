@@ -1,6 +1,8 @@
 Hi 👋, I'm olteanclan
+
 A passionate frontend developer from Romanian
-🌱 I’m currently learning : HTML
+
+🌱 I’m currently learning : HTML TYPESCRIPT
 
 ![image](https://user-images.githubusercontent.com/74288530/158215044-21bc7dd3-4b8e-411e-9fe4-31dec02e334d.png)
 ![image](https://user-images.githubusercontent.com/74288530/158215091-c2692124-759b-4d63-9558-d66371653e76.png)

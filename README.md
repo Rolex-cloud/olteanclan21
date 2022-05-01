@@ -1,4 +1,4 @@
-Hi 👋, I'm gaby
+<h1>Hi 👋, I'm gaby</h1>
 
 A passionate frontend developer from Romanian
 

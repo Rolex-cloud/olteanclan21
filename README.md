@@ -1,4 +1,6 @@
 <h1>Hi 👋, I'm gaby</h1>
+Profile views
+1,019
 
 <h3>A passionate frontend developer from Romanian</h3>
 

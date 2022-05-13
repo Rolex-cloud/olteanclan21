@@ -2,7 +2,7 @@
 
 <h3>A passionate frontend developer from Romanian</h3>
 
-<h>3🌱 I’m currently learning : typescript and c++</h3>
+<h3>🌱 I’m currently learning : typescript and c++</h3>
 
 <h3>🔭 I’m currently working on site-web</h3>
 

@@ -1,6 +1,6 @@
 <h2>Hi 👋, My name is Gabrie as </>Rol3x . I'm 15 years old . </h2>
 
-<h3>A passionate frontend developer from Romanian</h3>
+<h2>A passionate frontend developer from Romanian</h2>
 
 <h3>🌱 I’m currently learning : typescript and c++</h3>
 

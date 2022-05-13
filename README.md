@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm gaby</h1>
 
-<h1>A passionate frontend developer from Romanian</h1>
+<h3>A passionate frontend developer from Romanian</h3
 
-<h1>🌱 I’m currently learning : typescript and c++</h1>
+<h3🌱 I’m currently learning : typescript and c++</h3
 
-<h1>🔭 I’m currently working on site-web</h1>
+<h3🔭 I’m currently working on site-web</h3
 
 ![image](https://user-images.githubusercontent.com/74288530/158215044-21bc7dd3-4b8e-411e-9fe4-31dec02e334d.png)
 ![image](https://user-images.githubusercontent.com/74288530/158215091-c2692124-759b-4d63-9558-d66371653e76.png)

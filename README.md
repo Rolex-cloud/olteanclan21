@@ -1,4 +1,4 @@
-<h1>Hi 👋, My name is Gabrie as </>Rol3x . I'm 15 years old . </h1>
+<h2>Hi 👋, My name is Gabrie as </>Rol3x . I'm 15 years old . </h2>
 
 <h3>A passionate frontend developer from Romanian</h3>
 
